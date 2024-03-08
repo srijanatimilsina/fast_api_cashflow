@@ -2,10 +2,10 @@
 
 1. Clone the repository:
 
-   git clone https://github.com/srijanatimilsina/fastapi_cashflow.git
+   git clone https://github.com/srijanatimilsina/fast_api_cashflow.git
 
 2. Navigate to the project directory:
-   cd fastapi_cashflow
+   cd fast_api_cashflow
 
 3. Create and activate a virtual environment
    python -m venv venv
